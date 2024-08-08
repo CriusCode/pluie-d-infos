@@ -1,0 +1,6 @@
+{
+    "apiKey": "mettez ici la clé API OpenWeatherMap",
+  "lat": 43.48333,
+    "lon": -1.48333,
+    "units": "metric"
+  }
